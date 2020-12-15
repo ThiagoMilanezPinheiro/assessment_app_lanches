@@ -1,0 +1,8 @@
+14/12/2020 12:45;true;Thiago Milanez;1245879531;thiagomilanez.gsi@gmail.com
+B;Cerveja;150.0;false;true;600.0;Budweiser
+P;Pizza Calabresa;45.0;true;true;true;8
+B;Refri;150.0;false;false;350.0;Coca-Cola
+D;Pizza de Chocolate;30.0;true;true;8
+P;Pizza de Mussarela;35.0;true;true;false;6
+B;Choop;550.0;true;false;1000.0;Brahma
+P;Pizza Peperoni;65.0;true;true;true;10
